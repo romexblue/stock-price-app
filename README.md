@@ -24,3 +24,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 ```bash
 git clone https://github.com/romexblue/stock-price-app.git
 cd stock-price-app
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Set Up Your Finnhub API Key
+- To access the Finnhub API, you'll need an API key which you can get [here]([URL](https://finnhub.io/))
+```bash
+npm install
+```
