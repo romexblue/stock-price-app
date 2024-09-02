@@ -22,5 +22,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/stock-data-fetcher.git
-cd stock-data-fetcher
+git clone https://github.com/romexblue/stock-price-app.git
+cd stock-price-app
