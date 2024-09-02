@@ -1,4 +1,4 @@
-# Stock Data Fetcher App
+# Stock Price App
 
 This is a simple React application that allows users to fetch and display real-time stock data using the Finnhub API. The application was built using Vite for fast development and bundling, Tailwind CSS for styling, and Axios for making HTTP requests.
 
