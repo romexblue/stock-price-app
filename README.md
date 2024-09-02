@@ -33,7 +33,19 @@ npm install
 ```
 
 ### 3. Set Up Your Finnhub API Key
-- To access the Finnhub API, you'll need an API key which you can get [here]([URL](https://finnhub.io/))
+- To access the Finnhub API, you'll need an API key which you can get at https://finnhub.io/
+- Create a .env file in the root of your project:
 ```bash
-npm install
+touch .env
+```
+- Add your API key to the .env file:
+```bash
+VITE_API_KEY=your_finnhub_api_key
+```
+
+### 4. Run the Application
+- To access the Finnhub API, you'll need an API key which you can get at https://finnhub.io/
+- Create a .env file in the root of your project:
+```bash
+npm run dev
 ```
